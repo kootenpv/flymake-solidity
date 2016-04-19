@@ -1,7 +1,8 @@
 ;;; flymake-solidity.el --- A flymake handler for solidity using solc
 ;;
-;;; Author: Pascal van Kooten <kootenpv@gmail.com>
-;;; Homepage: https://github.com/kootenvp/flymake-solidity
+;; Author: Pascal van Kooten <kootenpv@gmail.com>
+;; Homepage: https://github.com/kootenvp/flymake-solidity
+;; Package-Requires: ((flymake-easy "0.10"))
 ;;
 ;;; Commentary:
 ;;
