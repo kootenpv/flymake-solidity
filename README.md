@@ -31,7 +31,7 @@ When flymake has been configured as such, you can see live updates while writing
 Screenshot
 ==========
 
-[![](https://github.com/kootenpv/flymake-solidity/blob/master/screenshot.png)]
+![](https://github.com/kootenpv/flymake-solidity/blob/master/screenshot.png)
 
 Credits
 =======
