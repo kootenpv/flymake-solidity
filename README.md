@@ -42,4 +42,4 @@ If you want to make a flymake mode yourself, use flymake-easy!
 <hr>
 
 [![](http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png)](https://linkedin.com/in/pascalvkooten)
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y7QCCEPGC6R5E)
+Donations through Ethereum are appreciated: 0xf3BbB1D46D360FF56f4D5DaEDb238f8b83F6b261
