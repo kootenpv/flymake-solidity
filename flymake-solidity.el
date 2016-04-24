@@ -30,7 +30,7 @@
 (defvar flymake-solidity-executable "/usr/local/bin/solc")
 
 (defconst flymake-solidity-err-line-patterns
-  '(("^\\(.+.sol\\)\:\\([0-9]\\)+:\\([0-9]\\)+: \\(.+\\)$" nil 2 3 4)))
+  '(("^\\(.+.sol\\):\\([0-9]+\\):\\([0-9]+\\): \\(.+\\)$" 1 2 3 4)))
 
 (defun flymake-solidity-command (filename)
   "Construct a command that flymake can use to check solidity source."
